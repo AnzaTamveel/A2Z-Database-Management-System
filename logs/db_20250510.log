@@ -1,0 +1,52 @@
+2025-05-10 11:30:10,865 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 0 documents
+2025-05-10 11:30:10,866 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 11:30:10,868 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 0 documents
+2025-05-10 11:30:10,870 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:0
+2025-05-10 11:30:21,258 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 1 documents
+2025-05-10 11:30:21,258 - INFO - DOCUMENT_INSERT - collection:employees - SUCCESS - id:7346a89a-5bcd-4849-b9fd-a0607fce102f
+2025-05-10 11:30:21,258 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:1, time:0.0000s
+2025-05-10 11:30:36,917 - INFO - QUERY_EXECUTE - collection:employees - FAILED - error:type object 'Query' has no attribute 'process'
+2025-05-10 11:36:36,450 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:36:36,453 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 11:36:36,453 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:36:36,453 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:1
+2025-05-10 11:36:36,457 - INFO - QUERY_EXECUTE - collection:employees - FULL_SCAN - docs:1, time:0.0000s
+2025-05-10 11:37:04,944 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 1 documents
+2025-05-10 11:37:04,944 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:1, time:0.0000s
+2025-05-10 11:39:47,682 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:39:47,687 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 11:39:47,688 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:39:47,688 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:1
+2025-05-10 11:43:03,781 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:43:03,781 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 11:43:03,781 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 11:43:03,789 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:1
+2025-05-10 11:43:31,812 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 1 documents
+2025-05-10 11:43:31,818 - INFO - INDEX_CREATE - collection:employees - SUCCESS - field:age
+2025-05-10 12:26:08,971 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 12:26:08,971 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 12:26:08,971 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 12:26:08,971 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:1
+2025-05-10 12:26:08,971 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:1, time:0.0000s
+2025-05-10 13:17:13,891 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 13:17:13,891 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-10 13:17:13,891 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 1 documents
+2025-05-10 13:17:13,899 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:1
+2025-05-10 13:17:13,906 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 6 documents
+2025-05-10 13:17:13,909 - INFO - DOCUMENT_INSERT_MANY - collection:employees - SUCCESS - inserted 5 documents
+2025-05-10 13:17:13,909 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:6, time:0.0000s
+2025-05-10 13:18:06,741 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 11 documents
+2025-05-10 13:18:06,741 - INFO - DOCUMENT_INSERT_MANY - collection:employees - SUCCESS - inserted 5 documents
+2025-05-10 13:18:06,741 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:11, time:0.0000s
+2025-05-10 13:18:15,445 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 16 documents
+2025-05-10 13:18:15,446 - INFO - DOCUMENT_INSERT_MANY - collection:employees - SUCCESS - inserted 5 documents
+2025-05-10 13:18:15,448 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:16, time:0.0000s
+2025-05-10 13:18:24,157 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 21 documents
+2025-05-10 13:18:24,158 - INFO - DOCUMENT_INSERT_MANY - collection:employees - SUCCESS - inserted 5 documents
+2025-05-10 13:18:24,158 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:21, time:0.0000s
+2025-05-10 13:18:32,071 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 26 documents
+2025-05-10 13:18:32,071 - INFO - DOCUMENT_INSERT_MANY - collection:employees - SUCCESS - inserted 5 documents
+2025-05-10 13:18:32,071 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-10 13:18:39,700 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-10 13:19:36,180 - INFO - QUERY_EXECUTE - collection:employees - FULL_SCAN - docs:4, time:0.0000s
+2025-05-10 13:20:45,011 - INFO - BACKUP_CREATE - db:company - SUCCESS - path:backups\company_20250510_132044.zip

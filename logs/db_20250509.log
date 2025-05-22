@@ -1,0 +1,117 @@
+2025-05-09 15:26:45,065 - INFO - COLLECTION_INIT - collection:aman - STARTED - path:db\amna\aman.json, indexes:[]
+2025-05-09 15:26:45,126 - INFO - DATA_LOAD - collection:aman - SUCCESS - loaded 4 documents
+2025-05-09 15:26:45,128 - INFO - COLLECTION_INIT - collection:aman - COMPLETED - documents:4
+2025-05-09 15:26:45,128 - INFO - QUERY_EXECUTE - collection:aman - ALL_DOCUMENTS - docs:4, time:0.0000s
+2025-05-09 15:27:03,559 - INFO - BACKUP_CREATE - db:amna - SUCCESS - path:backups\amna_20250509_152703.zip
+2025-05-09 15:27:21,351 - INFO - BACKUP_CREATE - db:amna - SUCCESS - path:backups\amna_20250509_152721.zip
+2025-05-09 15:27:30,619 - INFO - BACKUP_RESTORE - db:amna - SUCCESS - from:backups\amna_20250509_152703.zip
+2025-05-09 15:27:35,630 - INFO - COLLECTION_INIT - collection:aman - STARTED - path:db\amna\aman.json, indexes:[]
+2025-05-09 15:27:35,630 - INFO - DATA_LOAD - collection:aman - SUCCESS - loaded 4 documents
+2025-05-09 15:27:35,630 - INFO - COLLECTION_INIT - collection:aman - COMPLETED - documents:4
+2025-05-09 15:27:35,640 - INFO - QUERY_EXECUTE - collection:aman - ALL_DOCUMENTS - docs:4, time:0.0000s
+2025-05-09 15:42:47,530 - INFO - COLLECTION_INIT - collection:course - STARTED - path:db\lms\course.json, indexes:[]
+2025-05-09 15:42:47,571 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-09 15:42:47,578 - INFO - COLLECTION_INIT - collection:course - COMPLETED - documents:5
+2025-05-09 15:42:47,578 - INFO - QUERY_EXECUTE - collection:course - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-09 18:47:37,951 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 18:47:37,951 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 18:47:37,956 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 18:47:37,958 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 18:47:37,961 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 18:48:49,810 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-09 18:48:49,812 - INFO - COLLECTION_INIT - collection:departments - STARTED - path:db\fiveriver\departments.json, indexes:[]
+2025-05-09 18:48:49,812 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-09 18:48:49,812 - INFO - COLLECTION_INIT - collection:departments - COMPLETED - documents:2
+2025-05-09 18:48:49,816 - INFO - QUERY_EXECUTE - collection:departments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-09 18:48:51,176 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-09 18:48:51,176 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-09 18:48:51,176 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-09 18:48:51,181 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-09 18:48:51,184 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-09 18:48:51,943 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-09 18:48:51,946 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-09 18:48:51,946 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-09 18:48:51,949 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-09 18:48:51,952 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-09 19:02:54,784 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 19:02:54,784 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 19:02:54,784 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 19:02:54,792 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 19:02:54,792 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 19:02:59,362 - INFO - QUERY_EXECUTE - collection:user - FAILED - error:'Collection' object has no attribute 'indexing_enabled'
+2025-05-09 19:06:13,391 - INFO - QUERY_EXECUTE - collection:user - FULL_SCAN - docs:0, time:0.0000s
+2025-05-09 19:07:04,358 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-09 19:07:04,358 - INFO - COLLECTION_INIT - collection:course - STARTED - path:db\lms\course.json, indexes:[]
+2025-05-09 19:07:04,358 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-09 19:07:04,363 - INFO - COLLECTION_INIT - collection:course - COMPLETED - documents:5
+2025-05-09 19:07:04,364 - INFO - QUERY_EXECUTE - collection:course - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-09 19:07:07,126 - INFO - QUERY_EXECUTE - collection:course - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-09 19:07:08,386 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 20:16:14,311 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:16:14,311 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 20:16:14,311 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:16:14,319 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 20:16:14,320 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 20:16:18,821 - INFO - QUERY_EXECUTE - collection:user - FAILED - error:'>' not supported between instances of 'NoneType' and 'int'
+2025-05-09 20:33:49,248 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:33:49,248 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 20:33:49,253 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:33:49,253 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 20:33:49,253 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 20:53:56,755 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:53:56,755 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 20:53:56,758 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 20:53:56,760 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 20:53:56,761 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 20:54:00,335 - INFO - QUERY_EXECUTE - collection:user - FULL_SCAN - docs:5, time:0.0000s
+2025-05-09 20:56:01,385 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 21:15:11,718 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-09 21:15:11,732 - INFO - COLLECTION_INIT - collection:course - STARTED - path:db\lms\course.json, indexes:[]
+2025-05-09 21:15:11,735 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-09 21:15:11,737 - INFO - COLLECTION_INIT - collection:course - COMPLETED - documents:5
+2025-05-09 21:15:11,739 - INFO - QUERY_EXECUTE - collection:course - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-09 21:24:06,752 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:24:06,752 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 21:24:06,752 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:24:06,759 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 21:24:06,759 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 21:33:36,039 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:33:36,042 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 21:33:36,042 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:33:36,045 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 21:33:36,045 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 21:42:38,152 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:42:38,156 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 21:42:38,156 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:42:38,159 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 21:42:38,160 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 21:51:47,094 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:51:47,095 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 21:51:47,098 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:51:47,099 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 21:51:47,099 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 21:58:08,337 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:58:08,337 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 21:58:08,343 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 21:58:08,343 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 21:58:08,343 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 22:04:38,757 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:04:38,759 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 22:04:38,759 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:04:38,759 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 22:04:38,759 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 22:09:15,804 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:09:15,804 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 22:09:15,806 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:09:15,806 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 22:09:15,807 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 22:14:34,965 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:14:34,965 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 22:14:34,966 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:14:34,966 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 22:14:34,967 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s
+2025-05-09 22:22:17,056 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:22:17,057 - INFO - COLLECTION_INIT - collection:user - STARTED - path:db\lms\user.json, indexes:[]
+2025-05-09 22:22:17,058 - INFO - DATA_LOAD - collection:user - SUCCESS - loaded 10 documents
+2025-05-09 22:22:17,058 - INFO - COLLECTION_INIT - collection:user - COMPLETED - documents:10
+2025-05-09 22:22:17,060 - INFO - QUERY_EXECUTE - collection:user - ALL_DOCUMENTS - docs:10, time:0.0000s

@@ -1,0 +1,90 @@
+[
+    {
+      "_id": "u1001",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@example.com",
+      "role": "student",
+      "enrolled_courses": ["c101", "c103"],
+      "password": "$2b$10$examplehashedpassword1",
+      "created_at": "2023-01-15T09:30:00Z"
+    },
+    {
+      "_id": "u1002",
+      "name": "Professor David Chen",
+      "email": "david.chen@example.com",
+      "role": "instructor",
+      "teaching_courses": ["c101", "c102"],
+      "password": "$2b$10$examplehashedpassword2",
+      "created_at": "2022-11-20T14:15:00Z"
+    },
+    {
+      "_id": "u1003",
+      "name": "Admin User",
+      "email": "admin@lms.edu",
+      "role": "admin",
+      "password": "$2b$10$examplehashedpassword3",
+      "created_at": "2022-09-01T00:00:00Z"
+    },
+    {
+      "_id": "u1004",
+      "name": "Emma Wilson",
+      "email": "emma.w@example.com",
+      "role": "student",
+      "enrolled_courses": ["c102"],
+      "password": "$2b$10$examplehashedpassword4",
+      "created_at": "2023-02-28T16:45:00Z"
+    },
+    {
+      "_id": "u1005",
+      "name": "Dr. Michael Brown",
+      "email": "m.brown@example.com",
+      "role": "instructor",
+      "teaching_courses": ["c103", "c104"],
+      "password": "$2b$10$examplehashedpassword5",
+      "created_at": "2023-01-10T11:20:00Z"
+    },
+    {
+      "_id": "u1006",
+      "name": "Alex Garcia",
+      "email": "alex.g@example.com",
+      "role": "student",
+      "enrolled_courses": ["c101", "c102", "c104"],
+      "password": "$2b$10$examplehashedpassword6",
+      "created_at": "2023-03-15T13:10:00Z"
+    },
+    {
+      "_id": "u1007",
+      "name": "Professor Lisa Wang",
+      "email": "lisa.wang@example.com",
+      "role": "instructor",
+      "teaching_courses": ["c105"],
+      "password": "$2b$10$examplehashedpassword7",
+      "created_at": "2023-02-01T10:00:00Z"
+    },
+    {
+      "_id": "u1008",
+      "name": "James Miller",
+      "email": "james.m@example.com",
+      "role": "student",
+      "enrolled_courses": [],
+      "password": "$2b$10$examplehashedpassword8",
+      "created_at": "2023-04-05T08:30:00Z"
+    },
+    {
+      "_id": "u1009",
+      "name": "Technical Support",
+      "email": "support@lms.edu",
+      "role": "support",
+      "password": "$2b$10$examplehashedpassword9",
+      "created_at": "2022-12-15T12:00:00Z"
+    },
+    {
+      "_id": "u1010",
+      "name": "Olivia Davis",
+      "email": "olivia.d@example.com",
+      "role": "student",
+      "enrolled_courses": ["c103", "c105"],
+      "password": "$2b$10$examplehashedpassword10",
+      "created_at": "2023-03-01T15:20:00Z"
+    }
+  ]

@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "CS101",
+      "title": "Introduction to Programming",
+      "description": "Fundamentals of Python programming",
+      "instructor_id": "UR1001",
+      "department": "Computer Science",
+      "credits": 3,
+      "modules": [
+        {
+          "module_id": "M1",
+          "title": "Python Basics",
+          "duration_weeks": 2
+        },
+        {
+          "module_id": "M2",
+          "title": "Data Structures",
+          "duration_weeks": 3
+        }
+      ],
+      "enrollment_count": 45
+    },
+    {
+      "_id": "MATH202",
+      "title": "Discrete Mathematics",
+      "description": "Logic, proofs, and discrete structures",
+      "instructor_id": "UR1003",
+      "department": "Mathematics",
+      "credits": 4,
+      "modules": [
+        {
+          "module_id": "M1",
+          "title": "Propositional Logic",
+          "duration_weeks": 2
+        }
+      ],
+      "enrollment_count": 30
+    }
+  ]

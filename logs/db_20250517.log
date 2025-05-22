@@ -1,0 +1,47 @@
+2025-05-17 21:01:52,720 - INFO - AUTH - LOAD - SUCCESS - Loaded 0 users
+2025-05-17 21:01:53,366 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-17 21:01:53,369 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-17 21:02:03,112 - INFO - AUTH - AUTHENTICATE - FAILED - username:admin
+2025-05-17 21:04:33,465 - INFO - AUTH - LOAD - SUCCESS - Loaded 0 users
+2025-05-17 21:04:33,546 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-17 21:04:33,546 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-17 21:04:49,648 - INFO - AUTH - AUTHENTICATE - FAILED - username:user
+2025-05-17 21:13:20,032 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-17 21:13:20,162 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-17 21:13:20,162 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-17 21:13:31,499 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-17 21:13:33,223 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-17 21:13:34,189 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-17 21:13:34,789 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-17 21:13:35,471 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-17 21:13:35,523 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-17 21:13:35,523 - INFO - COLLECTION_INIT - collection:departments - COMPLETED - path:db\fiveriver\departments.json, indexes:[], documents:2
+2025-05-17 21:13:35,551 - INFO - QUERY_EXECUTE - collection:departments - FULL_SCAN - FULL_SCAN query returned 2 docs in 26.62ms (reason: No query provided)
+2025-05-17 21:13:35,567 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents in 28.36ms (full scan)
+Transaction Status: No active transaction
+2025-05-17 21:14:07,004 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-17 21:14:07,093 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-17 21:14:07,096 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-17 21:14:23,375 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:user2
+2025-05-17 21:14:25,627 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mera_db'
+Transaction Status: No active transaction
+2025-05-17 21:14:26,458 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mera_db'
+Transaction Status: No active transaction
+2025-05-17 21:14:26,458 - INFO - DATA_LOAD - collection:orders - SUCCESS - loaded 0 documents
+2025-05-17 21:14:26,471 - INFO - COLLECTION_INIT - collection:orders - COMPLETED - path:db\mera_db\orders.json, indexes:[], documents:0
+2025-05-17 21:14:26,471 - INFO - QUERY_EXECUTE - collection:orders - FULL_SCAN - FULL_SCAN query returned 0 docs in 0.64ms (reason: No query provided)
+2025-05-17 21:14:26,477 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 0 documents in 1.45ms (full scan)
+Transaction Status: No active transaction
+2025-05-17 21:15:10,131 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:create_db, name:mydb
+2025-05-17 21:15:10,131 - INFO - AUTH - ACCESS - DENIED - user:user2, required:CREATE_DATABASE
+2025-05-17 21:15:10,131 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 0 documents in 1.45ms (full scan)
+Transaction Status: No active transaction
+2025-05-17 21:15:12,315 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:NAVA DATABASE BANAO mydb, error:Insufficient permissions

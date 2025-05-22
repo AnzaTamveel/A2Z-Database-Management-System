@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "UR1001",
+    "name": "Dr. Alan Turing",
+    "email": "alan.t@fiveriver.edu",
+    "role": "professor",
+    "department": "Computer Science",
+    "courses_taught": [
+      "CS101",
+      "CS201"
+    ],
+    "password_hash": "$2b$10$TkQxZmVrZWFkZW1vLmNvbQ==",
+    "join_date": "2020-01-15"
+  },
+  {
+    "_id": "UR1002",
+    "name": "Marie Curie",
+    "email": "marie.c@fiveriver.edu",
+    "role": "professor",
+    "department": "Physics",
+    "courses_taught": [
+      "PHY301"
+    ],
+    "password_hash": "$2b$10$U2FsdGVkX1+RlZWFkZW1vLmNvbQ==",
+    "join_date": "2019-08-20"
+  },
+  {
+    "_id": "ST2001",
+    "name": "John Nash",
+    "email": "john.n@student.fiveriver.edu",
+    "role": "student",
+    "major": "Mathematics",
+    "enrolled_courses": [
+      "MATH202",
+      "CS101"
+    ],
+    "gpa": 3.7,
+    "admission_date": "2022-09-01"
+  },
+  {
+    "_id": "ST2002",
+    "name": "Ada Lovelace",
+    "email": "ada.l@student.fiveriver.edu",
+    "role": "student",
+    "major": "Computer Science",
+    "enrolled_courses": [
+      "CS101",
+      "CS201",
+      "MATH202"
+    ],
+    "gpa": 4.0,
+    "admission_date": "2021-09-01"
+  },
+  {
+    "_id": "AD3001",
+    "name": "Admin User",
+    "email": "admin@fiveriver.edu",
+    "role": "admin",
+    "password_hash": "$2b$10$QWRtaW4uIFN5c3RyaW5nLmNvbQ==",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Bob",
+    "email": "bob@example.com",
+    "age": 25
+  },
+  {
+    "name": "Alice",
+    "age": 25,
+    "_id": "5e506ca3-1ad3-43fa-bba6-70f8d65dda29"
+  },
+  {
+    "name": "Emma",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York"
+    },
+    "tags": [
+      "customer",
+      "vip"
+    ],
+    "_id": "c281098e-c6ef-4c98-a33f-090e26ee67dd"
+  },
+  {
+    "name": "John",
+    "age": 30,
+    "email": "john@example.com",
+    "active": true,
+    "_id": "0589def7-9468-49ea-ae0f-e18b62541fd1"
+  }
+]

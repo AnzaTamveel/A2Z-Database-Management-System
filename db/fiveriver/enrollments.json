@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "EN5001",
+      "student_id": "ST2001",
+      "course_id": "CS101",
+      "enrollment_date": "2023-01-10",
+      "status": "active",
+      "grades": [
+        {
+          "module_id": "M1",
+          "score": 87,
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "_id": "EN5002",
+      "student_id": "ST2002",
+      "course_id": "MATH202",
+      "enrollment_date": "2023-01-12",
+      "status": "active",
+      "grades": []
+    }
+  ]

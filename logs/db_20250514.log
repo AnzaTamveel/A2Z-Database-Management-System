@@ -1,0 +1,1065 @@
+2025-05-14 03:45:21,154 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 03:45:21,155 - INFO - COLLECTION_INIT - collection:project - STARTED - path:db\zainab\project.json, indexes:[]
+2025-05-14 03:45:21,155 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 03:45:21,155 - INFO - COLLECTION_INIT - collection:project - COMPLETED - documents:0
+2025-05-14 09:37:29,389 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:37:29,405 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-14 09:37:29,431 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:37:29,431 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-14 09:37:29,431 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:31,627 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:31,627 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 09:39:31,627 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:31,627 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 09:39:31,643 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:32,336 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:32,336 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 09:39:32,336 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:32,336 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 09:39:32,352 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:33,071 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:33,073 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 09:39:33,073 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:33,073 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 09:39:33,073 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:33,977 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:33,977 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 09:39:33,977 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:33,977 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 09:39:33,977 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:37,756 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:37,756 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 09:39:37,756 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:37,756 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 09:39:37,756 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 09:39:38,983 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:38,983 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 09:39:38,983 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:38,983 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 09:39:38,983 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 09:39:40,410 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:40,418 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-14 09:39:40,422 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:40,422 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-14 09:39:40,422 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:41,150 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:41,152 - INFO - COLLECTION_INIT - collection:departments - STARTED - path:db\fiveriver\departments.json, indexes:[]
+2025-05-14 09:39:41,152 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:41,153 - INFO - COLLECTION_INIT - collection:departments - COMPLETED - documents:2
+2025-05-14 09:39:41,153 - INFO - QUERY_EXECUTE - collection:departments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:41,905 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:41,905 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 09:39:41,905 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:41,905 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 09:39:41,905 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:43,321 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 09:39:43,321 - INFO - COLLECTION_INIT - collection:users - STARTED - path:db\fiveriver\users.json, indexes:[]
+2025-05-14 09:39:43,321 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 09:39:43,321 - INFO - COLLECTION_INIT - collection:users - COMPLETED - documents:5
+2025-05-14 09:39:43,321 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 09:39:45,838 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 09:39:45,843 - INFO - COLLECTION_INIT - collection:project - STARTED - path:db\zainab\project.json, indexes:[]
+2025-05-14 09:39:45,843 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 09:39:45,843 - INFO - COLLECTION_INIT - collection:project - COMPLETED - documents:0
+2025-05-14 09:39:45,843 - INFO - QUERY_EXECUTE - collection:project - ALL_DOCUMENTS - docs:0, time:0.0000s
+2025-05-14 09:39:48,046 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 09:39:48,046 - INFO - COLLECTION_INIT - collection:project - STARTED - path:db\zainab\project.json, indexes:[]
+2025-05-14 09:39:48,046 - INFO - DATA_LOAD - collection:project - SUCCESS - loaded 0 documents
+2025-05-14 09:39:48,046 - INFO - COLLECTION_INIT - collection:project - COMPLETED - documents:0
+2025-05-14 09:39:48,046 - INFO - QUERY_EXECUTE - collection:project - ALL_DOCUMENTS - docs:0, time:0.0000s
+2025-05-14 09:39:52,253 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:52,253 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 09:39:52,253 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 09:39:52,262 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 09:39:52,262 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 09:39:53,872 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:53,872 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 09:39:53,878 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:53,878 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 09:39:53,880 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:54,558 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:54,558 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-14 09:39:54,558 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:54,558 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-14 09:39:54,558 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:55,287 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:55,296 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-14 09:39:55,296 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 09:39:55,296 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-14 09:39:55,296 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:39:56,879 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:56,879 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 09:39:56,879 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 09:39:56,879 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 09:39:56,879 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:40:31,560 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:40:31,560 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 09:40:31,560 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:40:31,563 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 09:40:31,563 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 09:45:37,250 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:45:37,250 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 09:45:37,250 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 09:45:37,250 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 09:45:37,250 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 11:01:36,142 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 11:01:36,142 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 11:01:36,142 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 11:01:36,142 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 11:01:36,142 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 11:10:01,820 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 11:10:01,820 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 11:10:01,820 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 11:10:01,820 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 11:10:01,825 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 19:10:29,650 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 19:10:29,652 - INFO - COLLECTION_INIT - collection:employees - STARTED - path:db\company\employees.json, indexes:[]
+2025-05-14 19:10:29,656 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 19:10:29,657 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - documents:26
+2025-05-14 19:10:29,658 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 19:10:50,284 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:50,285 - INFO - COLLECTION_INIT - collection:assignments - STARTED - path:db\fiveriver\assignments.json, indexes:[]
+2025-05-14 19:10:50,287 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:50,288 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - documents:2
+2025-05-14 19:10:50,290 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 19:10:51,731 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 19:10:51,731 - INFO - COLLECTION_INIT - collection:courses - STARTED - path:db\fiveriver\courses.json, indexes:[]
+2025-05-14 19:10:51,734 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 19:10:51,735 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - documents:2
+2025-05-14 19:10:51,736 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 19:10:52,458 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:52,459 - INFO - COLLECTION_INIT - collection:departments - STARTED - path:db\fiveriver\departments.json, indexes:[]
+2025-05-14 19:10:52,461 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:52,462 - INFO - COLLECTION_INIT - collection:departments - COMPLETED - documents:2
+2025-05-14 19:10:52,463 - INFO - QUERY_EXECUTE - collection:departments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 19:10:53,075 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:53,077 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 19:10:53,079 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:53,080 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 19:10:53,080 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 19:10:53,489 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:53,490 - INFO - COLLECTION_INIT - collection:enrollments - STARTED - path:db\fiveriver\enrollments.json, indexes:[]
+2025-05-14 19:10:53,493 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 19:10:53,494 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - documents:2
+2025-05-14 19:10:53,494 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 19:10:53,988 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 19:10:53,989 - INFO - COLLECTION_INIT - collection:users - STARTED - path:db\fiveriver\users.json, indexes:[]
+2025-05-14 19:10:53,992 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 19:10:53,993 - INFO - COLLECTION_INIT - collection:users - COMPLETED - documents:5
+2025-05-14 19:10:53,994 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 19:39:55,076 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:create_db, name:abc
+2025-05-14 19:40:45,494 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 19:40:45,497 - INFO - TRANSACTION - BEGIN - abc - Transaction 1eace35e-b1e3-4c1b-8096-d18da168ad07 started
+2025-05-14 19:40:45,498 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:abc, transaction_id:1eace35e-b1e3-4c1b-8096-d18da168ad07
+2025-05-14 19:40:49,183 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 19:40:51,266 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:begin tx, error:Transaction already in progress
+2025-05-14 19:41:18,852 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-14 19:41:21,293 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT INTO users {"name": "John", "age": 30}, error:Collection 'users' not found
+2025-05-14 19:41:28,613 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:abc
+2025-05-14 19:41:29,659 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT INTO abc {"name": "John", "age": 30}, error:Collection 'abc' not found
+2025-05-14 19:41:32,278 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 26 documents
+2025-05-14 19:41:32,279 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:26
+2025-05-14 19:41:32,280 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:26, time:0.0000s
+2025-05-14 19:43:26,491 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:employees
+2025-05-14 19:43:26,499 - INFO - DATA_SAVE - collection:employees - SUCCESS - saved 27 documents
+2025-05-14 19:43:26,499 - INFO - DOCUMENT_INSERT - collection:employees - SUCCESS - id:8a9be9bf-af52-4811-9b5e-67c0823a6a4a
+2025-05-14 19:43:26,500 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 19:44:00,476 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:commit
+2025-05-14 19:44:02,965 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:commit, error:No active transaction to commit
+2025-05-14 19:44:11,316 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 19:44:11,318 - INFO - TRANSACTION - BEGIN - company - Transaction 9d80a345-6d21-4fac-976a-55f2d061d2fc started
+2025-05-14 19:44:11,318 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:company, transaction_id:9d80a345-6d21-4fac-976a-55f2d061d2fc
+2025-05-14 19:44:42,467 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT INTO employees{"name": "zainab", "age": 30}, error:'NoneType' object is not subscriptable
+2025-05-14 19:44:44,590 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:employees
+2025-05-14 19:44:44,590 - INFO - TRANSACTION_CONTEXT - collection:employees - SET - transaction_id:9d80a345-6d21-4fac-976a-55f2d061d2fc
+2025-05-14 19:44:44,593 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 19:44:52,147 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:commit
+2025-05-14 19:44:52,148 - INFO - TRANSACTION_CONTEXT - collection:employees - SET - transaction_id:9d80a345-6d21-4fac-976a-55f2d061d2fc
+2025-05-14 19:44:52,148 - INFO - TRANSACTION_APPLY - collection:employees - SUCCESS - type:insert, transaction_id:9d80a345-6d21-4fac-976a-55f2d061d2fc
+2025-05-14 19:44:52,150 - INFO - TRANSACTION - COMMIT - company - Transaction 9d80a345-6d21-4fac-976a-55f2d061d2fc committed
+2025-05-14 19:44:52,152 - INFO - GUI_TRANSACTION - COMMIT - SUCCESS - database:company
+2025-05-14 19:45:14,581 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:rollback
+2025-05-14 19:45:16,047 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:rollback, error:No active transaction to rollback
+2025-05-14 19:52:58,623 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 19:52:58,625 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 19:52:58,626 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 19:53:06,411 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 19:53:06,414 - INFO - TRANSACTION - BEGIN - company - Transaction ce57e040-d962-4c52-a543-b2c17a0cddbc started
+2025-05-14 19:53:06,415 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:company, transaction_id:ce57e040-d962-4c52-a543-b2c17a0cddbc
+2025-05-14 21:10:26,687 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Ready | No active transaction
+2025-05-14 21:10:26,770 - INFO - GUI_INIT - WIDGET - SUCCESS - Status bar created
+2025-05-14 21:10:26,773 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized status display
+2025-05-14 21:10:39,247 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'abc' | No active transaction
+2025-05-14 21:10:39,732 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'abc' | No active transaction
+2025-05-14 21:10:46,666 - INFO - QUERY_PARSE - ERROR - FAILED - query:select abc, error:Unknown query command: select abc
+2025-05-14 21:10:46,667 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'abc' | No active transaction
+2025-05-14 21:10:48,974 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:select abc, error:Unknown query command: select abc
+2025-05-14 21:10:53,628 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'fiveriver' | No active transaction
+2025-05-14 21:10:55,568 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'fiveriver' | No active transaction
+2025-05-14 21:10:55,606 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 21:10:55,607 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - path:db\fiveriver\assignments.json, indexes:[], documents:2
+2025-05-14 21:10:55,607 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 21:10:55,611 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Found 2 documents | No active transaction
+2025-05-14 21:11:03,798 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 21:11:03,801 - INFO - TRANSACTION - BEGIN - fiveriver - Transaction 09331811-a35d-4c79-aa08-5049fd8fa612 started
+2025-05-14 21:11:03,802 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Transaction 09331811-a35d-4c79-aa08-5049fd8fa612 started | Transaction 09331811-a35d-4c79-aa08-5049fd8fa612 active
+2025-05-14 21:11:03,803 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:fiveriver, transaction_id:09331811-a35d-4c79-aa08-5049fd8fa612
+2025-05-14 21:19:10,986 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Ready | No active transaction
+2025-05-14 21:19:11,656 - INFO - GUI_INIT - WIDGET - SUCCESS - Status bar created
+2025-05-14 21:19:11,660 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized status display
+2025-05-14 21:20:21,536 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Ready | No active transaction
+2025-05-14 21:20:21,938 - INFO - GUI_INIT - WIDGET - SUCCESS - Status bar created
+2025-05-14 21:20:21,943 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized status display
+2025-05-14 21:20:42,523 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'company' | No active transaction
+2025-05-14 21:20:43,095 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Using database 'company' | No active transaction
+2025-05-14 21:20:43,108 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 21:20:43,109 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 21:20:43,110 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 21:20:43,127 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Found 27 documents | No active transaction
+2025-05-14 21:20:48,748 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 21:20:48,785 - INFO - TRANSACTION - BEGIN - company - Transaction 6117a14d-1bb7-4e14-8134-5e5a08d1d75b started
+2025-05-14 21:20:48,786 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Transaction 6117a14d-1bb7-4e14-8134-5e5a08d1d75b started | Transaction 6117a14d-1bb7-4e14-8134-5e5a08d1d75b active
+2025-05-14 21:20:48,787 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:company, transaction_id:6117a14d-1bb7-4e14-8134-5e5a08d1d75b
+2025-05-14 21:25:04,705 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Ready | No active transaction
+2025-05-14 21:25:05,333 - INFO - GUI_INIT - WIDGET - SUCCESS - Status bar created
+2025-05-14 21:25:05,337 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized status display
+2025-05-14 21:25:58,720 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 21:25:58,728 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 21:26:09,913 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 21:26:10,405 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 21:26:10,406 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 21:26:10,406 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 21:26:10,407 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 21:26:10,414 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents
+Transaction Status: No active transaction
+2025-05-14 21:26:23,773 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 21:26:23,783 - INFO - TRANSACTION - BEGIN - company - Transaction 9a7a9a48-a359-46ea-b806-633d5a3d9dcc started
+2025-05-14 21:26:23,784 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction 9a7a9a48-a359-46ea-b806-633d5a3d9dcc started
+Transaction Status: Transaction 9a7a9a48-a359-46ea-b806-633d5a3d9dcc active
+2025-05-14 21:26:23,784 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:company, transaction_id:9a7a9a48-a359-46ea-b806-633d5a3d9dcc
+2025-05-14 21:26:35,843 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:rollback
+2025-05-14 21:26:35,845 - INFO - TRANSACTION - ROLLBACK - company - Transaction 9a7a9a48-a359-46ea-b806-633d5a3d9dcc rolled back
+2025-05-14 21:26:35,846 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction rolled back
+Transaction Status: No active transaction
+2025-05-14 21:26:35,847 - INFO - GUI_TRANSACTION - ROLLBACK - SUCCESS - database:company
+2025-05-14 21:26:42,779 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:commit
+2025-05-14 21:26:42,780 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction rolled back
+Transaction Status: No active transaction
+2025-05-14 21:26:44,302 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:commit, error:No active transaction to commit
+2025-05-14 21:34:52,839 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 21:34:52,843 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:05:59,396 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:05:59,400 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:06:05,721 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:06:07,097 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:06:08,350 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'b'
+Transaction Status: No active transaction
+2025-05-14 22:06:09,321 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:06:10,128 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:06:10,156 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 22:06:10,160 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 22:06:10,161 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 22:06:10,179 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents
+Transaction Status: No active transaction
+2025-05-14 22:06:10,898 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:06:11,821 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:06:11,831 - INFO - DATA_LOAD - collection:departments - SUCCESS - loaded 2 documents
+2025-05-14 22:06:11,833 - INFO - COLLECTION_INIT - collection:departments - COMPLETED - path:db\fiveriver\departments.json, indexes:[], documents:2
+2025-05-14 22:06:11,833 - INFO - QUERY_EXECUTE - collection:departments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 22:06:11,850 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents
+Transaction Status: No active transaction
+2025-05-14 22:06:12,487 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:06:12,487 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-14 22:06:12,487 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - path:db\fiveriver\enrollments.json, indexes:[], documents:2
+2025-05-14 22:06:12,487 - INFO - QUERY_EXECUTE - collection:enrollments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 22:06:12,513 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents
+Transaction Status: No active transaction
+2025-05-14 22:09:07,329 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:09:07,329 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:09:16,781 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:use_db, name:company
+2025-05-14 22:09:16,796 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:09:28,979 - INFO - QUERY_PARSE - ERROR - FAILED - query:begin transection, error:Unknown query command: begin transection
+2025-05-14 22:09:28,981 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:09:31,087 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:begin transection, error:Unknown query command: begin transection
+2025-05-14 22:12:25,650 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:12:25,654 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:12:33,385 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 22:12:33,385 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:12:35,251 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:begin tx, error:No database selected. Use: USE DATABASE dbname
+2025-05-14 22:12:42,029 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:use_db, name:company
+2025-05-14 22:12:42,047 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:12:50,329 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 22:12:50,334 - INFO - TRANSACTION - BEGIN - company - Transaction 5dccb43e-b682-4825-a665-8ecfa080bbbf started
+2025-05-14 22:12:50,336 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction 5dccb43e-b682-4825-a665-8ecfa080bbbf started
+Transaction Status: Transaction 5dccb43e-b682-4825-a665-8ecfa080bbbf active
+2025-05-14 22:12:50,336 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:company, transaction_id:5dccb43e-b682-4825-a665-8ecfa080bbbf
+2025-05-14 22:13:42,635 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:13:42,635 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 22:13:42,635 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 22:13:42,635 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 22:13:42,648 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents
+Transaction Status: No active transaction
+2025-05-14 22:13:43,657 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:13:44,579 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:13:46,836 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:13:50,119 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:13:53,447 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 22:13:53,449 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 22:13:53,451 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 22:13:53,451 - INFO - QUERY_EXECUTE - collection:employees - ALL_DOCUMENTS - docs:27, time:0.0000s
+2025-05-14 22:13:53,476 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents
+Transaction Status: No active transaction
+2025-05-14 22:13:55,583 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:13:57,649 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:13:57,680 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 22:13:57,680 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - path:db\fiveriver\courses.json, indexes:[], documents:2
+2025-05-14 22:13:57,680 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 22:13:57,701 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents
+Transaction Status: No active transaction
+2025-05-14 22:13:58,916 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:13:58,944 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-14 22:13:58,944 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - path:db\fiveriver\assignments.json, indexes:[], documents:2
+2025-05-14 22:13:58,944 - INFO - QUERY_EXECUTE - collection:assignments - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 22:13:58,966 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents
+Transaction Status: No active transaction
+2025-05-14 22:14:00,274 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:14:00,283 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-14 22:14:00,283 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - path:db\fiveriver\courses.json, indexes:[], documents:2
+2025-05-14 22:14:00,283 - INFO - QUERY_EXECUTE - collection:courses - ALL_DOCUMENTS - docs:2, time:0.0000s
+2025-05-14 22:14:00,308 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents
+Transaction Status: No active transaction
+2025-05-14 22:14:09,633 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:14:09,665 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:14:09,665 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:14:09,665 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:14:09,686 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:15:02,035 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT INTO users {"name": "Alice", "email": alice@gmail.com, "role": "admin"}, error:Invalid insert syntax. Use: insert into collection {document} or insert into collection [documents]. Error: Invalid JSON format: Expecting value: line 1 column 28 (char 27)
+2025-05-14 22:15:02,053 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:15:12,050 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT INTO users {"name": "Alice", "email": alice@gmail.com, "role": "admin"}, error:Invalid insert syntax. Use: insert into collection {document} or insert into collection [documents]. Error: Invalid JSON format: Expecting value: line 1 column 28 (char 27)
+2025-05-14 22:15:41,818 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT INTO users {"name": "Alice", "email": alice@gmail.com, "role": "admin"}, error:Invalid insert syntax. Use: insert into collection {document} or insert into collection [documents]. Error: Invalid JSON format: Expecting value: line 1 column 28 (char 27)
+2025-05-14 22:15:41,818 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:16:29,894 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT INTO users {"name": "Alice", "email": alice@gmail.com, "role": "admin"}, error:Invalid insert syntax. Use: insert into collection {document} or insert into collection [documents]. Error: Invalid JSON format: Expecting value: line 1 column 28 (char 27)
+2025-05-14 22:16:37,194 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-14 22:16:37,200 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 6 documents
+2025-05-14 22:16:37,200 - INFO - DOCUMENT_INSERT - collection:users - SUCCESS - id:b5f8c0da-1f0c-4691-9ecb-d7bbd8da8aa9
+2025-05-14 22:16:37,200 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:20:30,543 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:20:30,544 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:20:39,978 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:20:50,647 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 22:20:50,649 - INFO - TRANSACTION - BEGIN - fiveriver - Transaction 753db2db-2b43-4823-9487-1797b72bfadb started
+2025-05-14 22:20:50,651 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction 753db2db-2b43-4823-9487-1797b72bfadb started
+Transaction Status: Transaction 753db2db-2b43-4823-9487-1797b72bfadb active
+2025-05-14 22:20:50,653 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:fiveriver, transaction_id:753db2db-2b43-4823-9487-1797b72bfadb
+2025-05-14 22:21:13,011 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-14 22:21:13,070 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 22:21:13,070 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 22:21:13,070 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:753db2db-2b43-4823-9487-1797b72bfadb
+2025-05-14 22:21:13,078 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:6, time:0.0000s
+2025-05-14 22:21:13,099 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 675c06b4-373f-4feb-9ab0-e3c05eeaca0c
+Transaction Status: Transaction 753db2db-2b43-4823-9487-1797b72bfadb active
+2025-05-14 22:24:11,183 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:rollback
+2025-05-14 22:24:11,185 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:753db2db-2b43-4823-9487-1797b72bfadb
+2025-05-14 22:24:11,188 - INFO - TRANSACTION_UNDO - collection:users - SUCCESS - type:insert, transaction_id:753db2db-2b43-4823-9487-1797b72bfadb
+2025-05-14 22:24:11,188 - INFO - TRANSACTION - ROLLBACK - fiveriver - Transaction 753db2db-2b43-4823-9487-1797b72bfadb rolled back
+2025-05-14 22:24:11,194 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction rolled back
+Transaction Status: No active transaction
+2025-05-14 22:24:11,195 - INFO - GUI_TRANSACTION - ROLLBACK - SUCCESS - database:fiveriver
+2025-05-14 22:24:14,584 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:24:14,589 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 22:24:14,590 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 22:24:14,590 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:6, time:0.0000s
+2025-05-14 22:24:14,607 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents
+Transaction Status: No active transaction
+2025-05-14 22:36:12,769 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:36:12,774 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:36:15,476 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:36:16,519 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:36:24,608 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 22:36:24,615 - INFO - TRANSACTION - BEGIN - fiveriver - Transaction c4d06c1d-132f-4d6e-8fc9-4689f75eb521 started
+2025-05-14 22:36:24,617 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction c4d06c1d-132f-4d6e-8fc9-4689f75eb521 started
+Transaction Status: Transaction c4d06c1d-132f-4d6e-8fc9-4689f75eb521 active
+2025-05-14 22:36:24,617 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:fiveriver, transaction_id:c4d06c1d-132f-4d6e-8fc9-4689f75eb521
+2025-05-14 22:38:24,624 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-14 22:38:24,624 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 22:38:24,624 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 22:38:24,624 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:c4d06c1d-132f-4d6e-8fc9-4689f75eb521
+2025-05-14 22:38:24,624 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:6, time:0.0000s
+2025-05-14 22:38:24,669 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 82e6e2c9-dfcc-4800-b311-6c1ef012887f
+Transaction Status: Transaction c4d06c1d-132f-4d6e-8fc9-4689f75eb521 active
+2025-05-14 22:38:34,053 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:rollback
+2025-05-14 22:38:34,057 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:c4d06c1d-132f-4d6e-8fc9-4689f75eb521
+2025-05-14 22:38:34,057 - INFO - TRANSACTION_UNDO - collection:users - SUCCESS - type:insert, transaction_id:c4d06c1d-132f-4d6e-8fc9-4689f75eb521
+2025-05-14 22:38:34,057 - INFO - TRANSACTION - ROLLBACK - fiveriver - Transaction c4d06c1d-132f-4d6e-8fc9-4689f75eb521 rolled back
+2025-05-14 22:38:34,057 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction rolled back
+Transaction Status: No active transaction
+2025-05-14 22:38:34,065 - INFO - GUI_TRANSACTION - ROLLBACK - SUCCESS - database:fiveriver
+2025-05-14 22:41:20,604 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:41:20,690 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:41:20,693 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:41:20,693 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:41:20,717 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:41:30,786 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:email, collection:IN
+2025-05-14 22:41:30,788 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:41:33,176 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:CREATE INDEX email IN users, error:Collection 'IN' not found
+2025-05-14 22:41:58,218 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:email, collection:users
+2025-05-14 22:41:58,221 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 5 documents
+2025-05-14 22:41:58,221 - INFO - INDEX_CREATE - collection:users - SUCCESS - field:email
+2025-05-14 22:41:58,224 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field 'email' in collection 'users'
+Transaction Status: No active transaction
+2025-05-14 22:42:26,517 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:42:26,519 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field 'email' in collection 'users'
+Transaction Status: No active transaction
+2025-05-14 22:42:31,178 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:42:36,381 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT MANY INTO users 
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}, error:Unknown query command: INSERT MANY INTO users 
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+2025-05-14 22:42:36,385 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field 'email' in collection 'users'
+Transaction Status: No active transaction
+2025-05-14 22:42:38,270 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT MANY INTO users 
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}, error:Unknown query command: INSERT MANY INTO users 
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+2025-05-14 22:44:07,409 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 22:44:07,414 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - docs:0, time:0.0000s
+2025-05-14 22:44:07,432 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 0 documents
+Transaction Status: No active transaction
+2025-05-14 22:44:12,746 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:44:12,747 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:44:12,747 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:44:12,749 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:44:12,761 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:44:47,579 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 22:44:47,583 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - docs:1, time:0.0000s
+2025-05-14 22:44:47,599 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 22:45:25,093 - INFO - QUERY_PARSE - ERROR - FAILED - query:ENABLE INDEXING false, error:Unknown query command: ENABLE INDEXING false
+2025-05-14 22:45:25,107 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 22:45:26,796 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:ENABLE INDEXING false, error:Unknown query command: ENABLE INDEXING false
+2025-05-14 22:45:34,491 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 22:45:34,494 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 22:46:09,556 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:46:09,560 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:46:09,560 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:46:09,560 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:46:09,592 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:46:19,973 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 22:46:19,975 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - docs:1, time:0.0000s
+2025-05-14 22:46:19,985 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 22:50:12,510 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:50:12,523 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:53:05,134 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 22:53:05,139 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 22:53:26,999 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:54:14,356 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:54:14,356 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:54:16,704 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:54:18,365 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:54:18,365 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:54:18,365 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:54:18,376 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:54:18,396 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:54:20,285 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:54:20,285 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 5 documents
+2025-05-14 22:54:20,288 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:5
+2025-05-14 22:54:20,288 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:5, time:0.0000s
+2025-05-14 22:54:20,310 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:54:22,150 - INFO - QUERY_PARSE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:54:22,150 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents
+Transaction Status: No active transaction
+2025-05-14 22:54:24,352 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+], error:Unknown query command: INSERT MANY INTO users [
+    {"_id": "4", "name": "David", "email": "david@example.com", "age": 28},
+    {"_id": "5", "name": "Eve", "email": "eve@example.com", "age": 32}
+]
+2025-05-14 22:54:35,219 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert_many, collection:users, count:2
+2025-05-14 22:54:35,228 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 7 documents
+2025-05-14 22:54:35,229 - INFO - DOCUMENT_INSERT_MANY - collection:users - SUCCESS - inserted 2 documents
+2025-05-14 22:54:35,229 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:7, time:0.0000s
+2025-05-14 22:54:35,246 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Inserted 2 documents with IDs: 4, 5
+Transaction Status: No active transaction
+2025-05-14 22:54:39,043 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 22:54:39,046 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 7 documents
+2025-05-14 22:54:39,046 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:7
+2025-05-14 22:54:39,047 - INFO - QUERY_EXECUTE - collection:users - ALL_DOCUMENTS - docs:7, time:0.0000s
+2025-05-14 22:54:39,047 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 7 documents
+Transaction Status: No active transaction
+2025-05-14 23:01:01,565 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:01:01,565 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:01:06,180 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:01:07,539 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:01:07,556 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 7 documents
+2025-05-14 23:01:07,559 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:7
+2025-05-14 23:01:07,559 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 7 docs in 0.02ms
+2025-05-14 23:01:07,580 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 7 documents
+Transaction Status: No active transaction
+2025-05-14 23:01:22,916 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-14 23:01:22,925 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 8 documents
+2025-05-14 23:01:22,926 - INFO - DOCUMENT_INSERT - collection:users - SUCCESS - id:2
+2025-05-14 23:01:22,926 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 8 docs in 0.01ms
+2025-05-14 23:01:22,939 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 2
+Transaction Status: No active transaction
+2025-05-14 23:01:41,768 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:01:41,770 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.07ms
+2025-05-14 23:01:41,785 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:02:08,222 - INFO - QUERY_PARSE - ERROR - FAILED - query:enable index, error:Unknown query command: enable index
+2025-05-14 23:02:08,222 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:02:10,011 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:enable index, error:Unknown query command: enable index
+2025-05-14 23:02:25,517 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-14 23:02:25,519 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-14 23:02:38,677 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:02:38,677 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:02:38,694 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:03:17,717 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:delete, collection:users
+2025-05-14 23:03:21,954 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 7 documents
+2025-05-14 23:03:21,954 - INFO - DOCUMENT_DELETE_MANY - collection:users - SUCCESS - deleted 1 documents, query:{'_id': '4'}
+2025-05-14 23:03:21,959 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 7 docs in 0.01ms
+2025-05-14 23:03:21,987 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Deleted 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:03:41,917 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:delete, collection:users
+2025-05-14 23:03:43,611 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 6 documents
+2025-05-14 23:03:43,613 - INFO - DOCUMENT_DELETE_MANY - collection:users - SUCCESS - deleted 1 documents, query:{'_id': '5'}
+2025-05-14 23:03:43,613 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.02ms
+2025-05-14 23:03:43,621 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Deleted 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:11:58,580 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:11:58,586 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:12:03,877 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:12:05,778 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:12:05,785 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:12:05,785 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:12:05,785 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.01ms
+2025-05-14 23:12:05,803 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents
+Transaction Status: No active transaction
+2025-05-14 23:12:35,235 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:users, collection:_id
+2025-05-14 23:12:35,240 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents
+Transaction Status: No active transaction
+2025-05-14 23:12:38,906 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:create index users _id, error:Collection '_id' not found
+2025-05-14 23:12:48,307 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:_id, collection:users
+2025-05-14 23:12:48,307 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 6 documents
+2025-05-14 23:12:48,307 - INFO - INDEX_CREATE - collection:users - SUCCESS - field:_id
+2025-05-14 23:12:48,307 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field '_id' in collection 'users'
+Transaction Status: No active transaction
+2025-05-14 23:12:51,881 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:_id, collection:users
+2025-05-14 23:12:51,881 - INFO - INDEX_CREATE - collection:users - FAILED - Index already exists on field: _id
+2025-05-14 23:12:51,881 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field '_id' in collection 'users'
+Transaction Status: No active transaction
+2025-05-14 23:12:53,862 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:create index _id users, error:Index already exists on field: _id
+2025-05-14 23:13:02,645 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:13:02,647 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:13:08,310 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:13:08,323 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:13:08,325 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:13:08,325 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.01ms
+2025-05-14 23:13:08,341 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents
+Transaction Status: No active transaction
+2025-05-14 23:13:34,015 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:13:34,015 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.07ms
+2025-05-14 23:13:34,031 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:13:48,969 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-14 23:13:48,969 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-14 23:13:52,336 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:13:52,338 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:13:52,356 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:16,758 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:14:16,758 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:14:18,134 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:14:18,134 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:14:19,897 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:14:19,904 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:14:22,740 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:22,740 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:22,761 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:27,306 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:27,306 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:27,322 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:27,793 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:27,795 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:27,809 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:27,951 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:27,954 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:27,963 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,105 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,105 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.03ms
+2025-05-14 23:14:28,118 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,270 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,273 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.03ms
+2025-05-14 23:14:28,286 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,437 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,437 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:28,453 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,591 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,591 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:28,605 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,754 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,767 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:28,785 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:28,924 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:28,924 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.03ms
+2025-05-14 23:14:28,942 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,105 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,105 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:29,125 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,270 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,272 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:29,288 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,419 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,428 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:29,446 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,606 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,632 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:29,654 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,774 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,780 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:29,802 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:29,954 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:29,954 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:29,957 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:30,167 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:30,167 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:30,185 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:30,612 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:30,617 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.06ms
+2025-05-14 23:14:30,627 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:31,206 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:31,206 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:31,227 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:31,736 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:31,736 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:31,755 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:32,357 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:32,364 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:32,385 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:33,007 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:33,011 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:33,029 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:33,554 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:33,554 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:33,570 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:33,851 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:33,851 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.07ms
+2025-05-14 23:14:33,869 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,044 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,044 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:34,062 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,221 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,221 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:34,237 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,419 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,422 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:34,433 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,582 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,586 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:34,604 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,771 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,771 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:34,791 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:34,905 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:34,905 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:34,919 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:35,070 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:35,075 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms
+2025-05-14 23:14:35,097 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:14:35,303 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:14:35,303 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms
+2025-05-14 23:14:35,321 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:16:51,727 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:16:51,729 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:16:56,594 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:16:57,780 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:16:57,796 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:16:57,796 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:17:23,490 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:17:23,492 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:17:27,292 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"name": "Bob"}, error:'Collection' object has no attribute 'query_time'
+2025-05-14 23:17:29,120 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:17:29,127 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:19:25,693 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"name": "Bob"}, error:'Collection' object has no attribute 'query_time'
+2025-05-14 23:20:06,967 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:20:06,971 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:20:21,138 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:20:22,603 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:20:22,603 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:20:22,608 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:20:22,616 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents
+Transaction Status: No active transaction
+2025-05-14 23:20:27,172 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:20:27,188 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:20:36,905 - INFO - QUERY_PARSE - ERROR - FAILED - query:enble indexing, error:Unknown query command: enble indexing
+2025-05-14 23:20:36,905 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:20:39,465 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:enble indexing, error:Unknown query command: enble indexing
+2025-05-14 23:21:00,208 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-14 23:21:00,214 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-14 23:21:03,459 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:03,484 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:05,366 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:05,382 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:05,535 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:05,560 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:05,700 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:05,726 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:05,886 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:05,902 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,052 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,069 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,232 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,250 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,399 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,423 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,567 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,594 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,750 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,770 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:06,932 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:06,948 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:07,106 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:07,117 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:07,293 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:07,315 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:21:07,466 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:21:07,492 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents
+Transaction Status: No active transaction
+2025-05-14 23:25:52,182 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:25:52,187 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:26:02,929 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:26:04,408 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:26:04,408 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:26:04,408 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:26:05,269 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:26:05,269 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:26:05,269 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:26:07,547 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:26:07,548 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:26:36,602 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:26:36,602 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:26:38,684 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"email": "bob@example.com"}, error:Collection._log_query_performance() got an unexpected keyword argument 'reason'
+2025-05-14 23:26:40,322 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:26:40,322 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:26:44,710 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"email": "bob@example.com"}, error:Collection._log_query_performance() got an unexpected keyword argument 'reason'
+2025-05-14 23:26:51,525 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:26:51,525 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:31:05,242 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:31:05,251 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:31:08,370 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:31:10,026 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:31:10,033 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:31:10,034 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:31:17,088 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-14 23:31:17,089 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:31:49,224 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:31:49,224 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-14 23:31:53,799 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"name": "Bob"}, error:Collection._log_query_performance() got an unexpected keyword argument 'reason'
+2025-05-14 23:32:19,525 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:32:19,529 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:32:37,780 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:32:38,881 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:32:38,887 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:32:38,887 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:32:54,106 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:32:54,106 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:32:56,918 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"name": "Bob"}, error:Collection._log_query_performance() got an unexpected keyword argument 'reason'
+2025-05-14 23:33:35,269 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:33:35,277 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:33:37,777 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:33:39,046 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:33:39,046 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:33:39,059 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:33:47,402 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:33:47,402 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:38:18,565 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:38:18,567 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:38:21,805 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:38:22,955 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:38:22,955 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:38:22,955 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:38:22,963 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.68ms (reason: No query provided)
+2025-05-14 23:38:22,977 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents in 1.60ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:38:33,389 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:38:33,393 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.08ms (reason: No suitable index found)
+2025-05-14 23:38:33,414 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 2.40ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:38:45,205 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-14 23:38:45,205 - INFO - INDEX_TOGGLE - collection:users - SUCCESS - indexing_enabled:True
+2025-05-14 23:38:45,205 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-14 23:38:48,184 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:38:48,184 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms (reason: No suitable index found)
+2025-05-14 23:38:48,206 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 1.15ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:42:09,135 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:42:09,143 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:42:24,890 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:42:24,890 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:42:26,675 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:FIND IN users {"name": "Bob"}, error:No database selected. Use: USE DATABASE dbname
+2025-05-14 23:42:27,585 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:42:28,636 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:42:28,640 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:42:28,641 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:42:28,643 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.84ms (reason: No query provided)
+2025-05-14 23:42:28,667 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents in 2.28ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:42:29,986 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:42:29,986 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.08ms (reason: No suitable index found)
+2025-05-14 23:42:30,009 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 1.28ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:42:39,629 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-14 23:42:39,629 - INFO - INDEX_TOGGLE - collection:users - SUCCESS - indexing_enabled:True
+2025-05-14 23:42:39,634 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-14 23:42:42,575 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-14 23:42:42,575 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.04ms (reason: No suitable index found)
+2025-05-14 23:42:42,587 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 0.92ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:50:27,340 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-14 23:50:27,346 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:50:40,168 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 23:50:40,168 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-14 23:50:42,182 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:begin tx, error:No database selected. Use: USE DATABASE dbname
+2025-05-14 23:50:43,152 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:50:44,439 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:50:44,442 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:50:44,443 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:50:44,445 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.70ms (reason: No query provided)
+2025-05-14 23:50:44,460 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents in 1.74ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:50:46,135 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-14 23:50:46,135 - INFO - TRANSACTION - BEGIN - fiveriver - Transaction c0a1f818-c1f4-43b9-987f-4754d2a1f183 started
+2025-05-14 23:50:46,143 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction c0a1f818-c1f4-43b9-987f-4754d2a1f183 started
+Transaction Status: Transaction c0a1f818-c1f4-43b9-987f-4754d2a1f183 active
+2025-05-14 23:50:46,145 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:fiveriver, transaction_id:c0a1f818-c1f4-43b9-987f-4754d2a1f183
+2025-05-14 23:51:30,429 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-14 23:51:32,713 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-14 23:52:58,638 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:53:01,068 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:53:01,072 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:53:01,075 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:53:01,076 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.93ms (reason: No query provided)
+2025-05-14 23:53:01,092 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents in 2.09ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:53:16,520 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-14 23:53:16,524 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 6 documents
+2025-05-14 23:53:16,524 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:6
+2025-05-14 23:53:16,524 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 6 docs in 0.75ms (reason: No query provided)
+2025-05-14 23:53:16,548 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 6 documents in 1.97ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:53:35,801 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 23:53:36,931 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 23:53:36,939 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 23:53:36,939 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 23:53:36,939 - INFO - QUERY_EXECUTE - collection:employees - FULL_SCAN - FULL_SCAN query returned 27 docs in 0.84ms (reason: No query provided)
+2025-05-14 23:53:36,964 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents in 1.95ms (full scan)
+Transaction Status: No active transaction
+2025-05-14 23:53:43,192 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-14 23:53:43,192 - INFO - DATA_LOAD - collection:employees - SUCCESS - loaded 27 documents
+2025-05-14 23:53:43,192 - INFO - COLLECTION_INIT - collection:employees - COMPLETED - path:db\company\employees.json, indexes:[], documents:27
+2025-05-14 23:53:43,198 - INFO - QUERY_EXECUTE - collection:employees - FULL_SCAN - FULL_SCAN query returned 27 docs in 0.84ms (reason: No query provided)
+2025-05-14 23:53:43,217 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 27 documents in 2.15ms (full scan)
+Transaction Status: No active transaction

@@ -1,0 +1,7 @@
+2025-05-08 14:27:24,261 - INFO - COLLECTION_INIT - collection:aman - STARTED - path:db\amna\aman.json, indexes:[]
+2025-05-08 14:27:24,363 - INFO - DATA_LOAD - collection:aman - SUCCESS - loaded 4 documents
+2025-05-08 14:27:24,366 - INFO - COLLECTION_INIT - collection:aman - COMPLETED - documents:4
+2025-05-08 14:27:24,370 - INFO - QUERY_EXECUTE - collection:aman - ALL_DOCUMENTS - docs:4, time:0.0000s
+2025-05-08 14:27:36,062 - INFO - DATA_SAVE - collection:aman - SUCCESS - saved 4 documents
+2025-05-08 14:27:36,070 - INFO - DOCUMENT_UPDATE - collection:aman - SUCCESS - id:1, query:{'_id': 1}, update:{'$set': {'_id': 1, 'name': 'John Doe', 'age': 40, 'address': {'street': '123 Main St', 'city': 'Anytown'}}}
+2025-05-08 14:27:36,097 - INFO - QUERY_EXECUTE - collection:aman - ALL_DOCUMENTS - docs:4, time:0.0000s

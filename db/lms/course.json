@@ -1,0 +1,112 @@
+[
+    {
+      "_id": "c101",
+      "title": "Introduction to Programming",
+      "description": "Learn basic programming concepts with Python",
+      "instructor_id": "u1002",
+      "start_date": "2023-06-01",
+      "end_date": "2023-08-30",
+      "enrolled_students": ["u1001", "u1006"],
+      "modules": [
+        {
+          "title": "Python Basics",
+          "duration": "2 weeks",
+          "content_type": "video"
+        },
+        {
+          "title": "Control Structures",
+          "duration": "3 weeks",
+          "content_type": "interactive"
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "_id": "c102",
+      "title": "Web Development Fundamentals",
+      "description": "HTML, CSS and JavaScript for beginners",
+      "instructor_id": "u1002",
+      "start_date": "2023-07-15",
+      "end_date": "2023-10-15",
+      "enrolled_students": ["u1004", "u1006"],
+      "modules": [
+        {
+          "title": "HTML Basics",
+          "duration": "1 week",
+          "content_type": "video"
+        },
+        {
+          "title": "CSS Styling",
+          "duration": "2 weeks",
+          "content_type": "interactive"
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "_id": "c103",
+      "title": "Data Science Essentials",
+      "description": "Introduction to data analysis and visualization",
+      "instructor_id": "u1005",
+      "start_date": "2023-05-10",
+      "end_date": "2023-08-20",
+      "enrolled_students": ["u1001", "u1010"],
+      "modules": [
+        {
+          "title": "Pandas Fundamentals",
+          "duration": "3 weeks",
+          "content_type": "video"
+        },
+        {
+          "title": "Data Visualization",
+          "duration": "2 weeks",
+          "content_type": "interactive"
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "_id": "c104",
+      "title": "Advanced Algorithms",
+      "description": "In-depth study of computer algorithms",
+      "instructor_id": "u1005",
+      "start_date": "2023-09-01",
+      "end_date": "2023-12-15",
+      "enrolled_students": ["u1006"],
+      "modules": [
+        {
+          "title": "Sorting Algorithms",
+          "duration": "2 weeks",
+          "content_type": "video"
+        },
+        {
+          "title": "Graph Theory",
+          "duration": "3 weeks",
+          "content_type": "interactive"
+        }
+      ],
+      "status": "upcoming"
+    },
+    {
+      "_id": "c105",
+      "title": "Mobile App Development",
+      "description": "Building cross-platform mobile apps with Flutter",
+      "instructor_id": "u1007",
+      "start_date": "2023-08-01",
+      "end_date": "2023-11-10",
+      "enrolled_students": ["u1010"],
+      "modules": [
+        {
+          "title": "Flutter Basics",
+          "duration": "2 weeks",
+          "content_type": "video"
+        },
+        {
+          "title": "State Management",
+          "duration": "2 weeks",
+          "content_type": "interactive"
+        }
+      ],
+      "status": "upcoming"
+    }
+  ]

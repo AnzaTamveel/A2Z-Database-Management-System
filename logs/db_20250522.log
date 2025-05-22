@@ -1,0 +1,337 @@
+2025-05-22 18:27:19,999 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:27:20,353 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:27:20,353 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:27:28,543 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 18:27:31,444 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:create_db, name:mydb
+2025-05-22 18:27:31,453 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Database 'mydb' created
+Transaction Status: No active transaction
+2025-05-22 18:27:38,650 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:use_db, name:mydb
+2025-05-22 18:27:38,668 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mydb'
+Transaction Status: No active transaction
+2025-05-22 18:27:44,905 - INFO - QUERY_PARSE - COLLECTION - SUCCESS - operation:create_collection, name:users
+2025-05-22 18:27:44,920 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 0 documents
+2025-05-22 18:27:44,920 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\mydb\users.json, indexes:[], documents:0
+2025-05-22 18:27:44,925 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Collection 'users' created
+Transaction Status: No active transaction
+2025-05-22 18:27:53,350 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-22 18:27:53,350 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 1 documents
+2025-05-22 18:27:53,350 - INFO - DOCUMENT_INSERT - collection:users - SUCCESS - id:47d772f1-b71a-4473-bd90-dfccf1bebc21
+2025-05-22 18:27:53,360 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.76ms (reason: No query provided)
+2025-05-22 18:27:53,376 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 47d772f1-b71a-4473-bd90-dfccf1bebc21
+Transaction Status: No active transaction
+2025-05-22 18:28:04,019 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-22 18:28:04,025 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.05ms (reason: No suitable index found)
+2025-05-22 18:28:04,033 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 1.07ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 18:28:12,702 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:update, collection:users
+2025-05-22 18:28:12,710 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 1 documents
+2025-05-22 18:28:12,710 - INFO - DOCUMENT_UPDATE_MANY - collection:users - SUCCESS - updated 1 documents, query:{'name': 'John'}
+2025-05-22 18:28:12,715 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.61ms (reason: No query provided)
+2025-05-22 18:28:12,732 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Updated 1 documents
+Transaction Status: No active transaction
+2025-05-22 18:28:20,072 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:delete, collection:users
+2025-05-22 18:28:21,818 - INFO - DOCUMENT_DELETE_MANY - collection:users - SUCCESS - deleted 0 documents, query:{'name': 'Bob'}
+2025-05-22 18:28:21,819 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.76ms (reason: No query provided)
+2025-05-22 18:28:21,833 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Deleted 0 documents
+Transaction Status: No active transaction
+2025-05-22 18:28:33,324 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-22 18:28:33,324 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.02ms (reason: No suitable index found)
+2025-05-22 18:28:33,337 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 1.07ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 18:28:39,054 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:create_index, field:age, collection:users
+2025-05-22 18:28:39,058 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 1 documents
+2025-05-22 18:28:39,058 - INFO - INDEX_CREATE - collection:users - SUCCESS - field:age
+2025-05-22 18:28:39,059 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Index created on field 'age' in collection '<core.collection.Collection object at 0x000001F100D3D960>'
+Transaction Status: No active transaction
+2025-05-22 18:28:45,494 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-22 18:28:45,494 - INFO - INDEX_TOGGLE - collection:users - SUCCESS - indexing_enabled:True
+2025-05-22 18:28:45,494 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-22 18:28:51,868 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-22 18:28:51,868 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.02ms (reason: No suitable index found)
+2025-05-22 18:28:51,890 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 1 documents in 0.87ms (used index)
+Transaction Status: No active transaction
+2025-05-22 18:28:58,487 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:False
+2025-05-22 18:28:58,487 - INFO - INDEX_TOGGLE - collection:users - SUCCESS - indexing_enabled:False
+2025-05-22 18:28:58,487 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing disabled
+Transaction Status: No active transaction
+2025-05-22 18:29:10,203 - INFO - QUERY_PARSE - AGGREGATION - SUCCESS - operation:aggregate, collection:users
+2025-05-22 18:29:10,219 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Aggregation completed with 1 results
+Transaction Status: No active transaction
+2025-05-22 18:29:18,866 - INFO - QUERY_PARSE - TRANSACTION - SUCCESS - operation:begin_transaction
+2025-05-22 18:29:18,897 - INFO - TRANSACTION - BEGIN - mydb - Transaction a8050a8c-deec-4419-85f8-e3712237c326 started
+2025-05-22 18:29:18,899 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 started
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:29:18,899 - INFO - GUI_TRANSACTION - BEGIN - SUCCESS - database:mydb, transaction_id:a8050a8c-deec-4419-85f8-e3712237c326
+2025-05-22 18:29:30,627 - INFO - QUERY_PARSE - BACKUP - SUCCESS - operation:backup, name:mydb_backup_2023
+2025-05-22 18:29:30,732 - INFO - BACKUP_CREATE - db:mydb_backup_2023 - FAILED - Database mydb_backup_2023 not found
+2025-05-22 18:29:30,747 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 started
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:29:32,301 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:BACKUP BANAO mydb_backup_2023, error:Database mydb_backup_2023 not found
+2025-05-22 18:29:41,288 - INFO - QUERY_PARSE - BACKUP - SUCCESS - operation:backup, name:my_db
+2025-05-22 18:29:41,292 - INFO - BACKUP_CREATE - db:my_db - FAILED - Database my_db not found
+2025-05-22 18:29:41,292 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 started
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:29:42,698 - INFO - GUI_QUERY_EXECUTE - ERROR - FAILED - query:BACKUP BANAO my_db, error:Database my_db not found
+2025-05-22 18:29:47,339 - INFO - QUERY_PARSE - BACKUP - SUCCESS - operation:backup, name:mydb
+2025-05-22 18:29:47,445 - INFO - BACKUP_CREATE - db:mydb - SUCCESS - path:backups\mydb_20250522_182947.zip
+2025-05-22 18:29:47,445 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Backup created at: backups\mydb_20250522_182947.zip
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:29:56,103 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-22 18:29:56,105 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:a8050a8c-deec-4419-85f8-e3712237c326
+2025-05-22 18:29:56,108 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 1 docs in 0.88ms (reason: No query provided)
+2025-05-22 18:29:56,122 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 3cd20433-5fb7-4239-9848-12dfb9a3505c
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:30:05,148 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-22 18:30:05,151 - INFO - TRANSACTION_CONTEXT - collection:users - SET - transaction_id:a8050a8c-deec-4419-85f8-e3712237c326
+2025-05-22 18:30:05,151 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 0 docs in 0.02ms (reason: No suitable index found)
+2025-05-22 18:30:05,162 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 0 documents in 0.85ms (full scan)
+Transaction Status: Transaction a8050a8c-deec-4419-85f8-e3712237c326 active
+2025-05-22 18:43:59,320 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:43:59,533 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:43:59,535 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:44:34,460 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:44:34,593 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:44:34,593 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:45:44,663 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:45:44,821 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:45:44,821 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:46:01,944 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 18:49:58,961 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:49:59,118 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:49:59,118 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:50:08,010 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 18:50:50,245 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:50:50,380 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:50:50,380 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:51:00,452 - INFO - AUTH - AUTHENTICATE - FAILED - username:
+2025-05-22 18:51:42,494 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:51:42,650 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:51:42,650 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:58:05,227 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:59:20,806 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 18:59:20,979 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 18:59:20,980 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 18:59:28,183 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 18:59:35,660 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,675 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,688 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,698 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,702 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,712 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,717 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,722 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,732 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,741 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,748 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,809 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,822 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,835 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,843 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,850 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,858 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,859 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:35,872 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,343 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,357 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,366 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,376 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,384 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,392 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,399 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,405 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,409 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:39,639 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:41,037 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:41,038 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-22 18:59:41,038 - INFO - COLLECTION_INIT - collection:course - COMPLETED - path:db\lms\course.json, indexes:[], documents:5
+2025-05-22 18:59:41,038 - INFO - QUERY_EXECUTE - collection:course - FULL_SCAN - FULL_SCAN query returned 5 docs in 0.39ms (reason: No query provided)
+2025-05-22 18:59:41,050 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents in 0.92ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 18:59:41,062 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'lms'
+Transaction Status: No active transaction
+2025-05-22 18:59:41,062 - INFO - DATA_LOAD - collection:course - SUCCESS - loaded 5 documents
+2025-05-22 18:59:41,062 - INFO - COLLECTION_INIT - collection:course - COMPLETED - path:db\lms\course.json, indexes:[], documents:5
+2025-05-22 18:59:41,062 - INFO - QUERY_EXECUTE - collection:course - FULL_SCAN - FULL_SCAN query returned 5 docs in 0.18ms (reason: No query provided)
+2025-05-22 18:59:41,069 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 5 documents in 0.48ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 19:02:02,892 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:02:03,062 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:02:03,064 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:04:27,977 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:09:59,461 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:09:59,618 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:09:59,619 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:10:12,310 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 19:10:42,915 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:10:43,229 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:10:43,231 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:10:58,293 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:10:58,442 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:10:58,443 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:20:36,534 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:20:36,917 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:20:36,919 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:20:53,639 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:20:53,796 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:20:53,801 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:39:54,073 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:39:54,300 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:39:54,300 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:40:07,565 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:40:07,799 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:40:07,799 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:40:20,491 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 19:40:23,327 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'abc'
+Transaction Status: No active transaction
+2025-05-22 19:40:24,557 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'company'
+Transaction Status: No active transaction
+2025-05-22 19:40:25,388 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 19:40:33,612 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 19:40:33,612 - INFO - DATA_LOAD - collection:enrollments - SUCCESS - loaded 2 documents
+2025-05-22 19:40:33,612 - INFO - COLLECTION_INIT - collection:enrollments - COMPLETED - path:db\fiveriver\enrollments.json, indexes:[], documents:2
+2025-05-22 19:40:33,612 - INFO - QUERY_EXECUTE - collection:enrollments - FULL_SCAN - FULL_SCAN query returned 2 docs in 0.57ms (reason: No query provided)
+2025-05-22 19:40:33,625 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents in 1.22ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 19:40:34,332 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 19:40:34,339 - INFO - DATA_LOAD - collection:courses - SUCCESS - loaded 2 documents
+2025-05-22 19:40:34,339 - INFO - COLLECTION_INIT - collection:courses - COMPLETED - path:db\fiveriver\courses.json, indexes:[], documents:2
+2025-05-22 19:40:34,341 - INFO - QUERY_EXECUTE - collection:courses - FULL_SCAN - FULL_SCAN query returned 2 docs in 0.39ms (reason: No query provided)
+2025-05-22 19:40:34,341 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents in 0.90ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 19:40:58,276 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:40:58,502 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:40:58,502 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:43:20,693 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:43:20,916 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:43:20,916 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:43:28,584 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 19:48:17,698 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:48:17,933 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:48:17,934 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:48:25,806 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 19:49:41,242 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:49:41,466 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:49:41,468 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:50:20,199 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:50:38,942 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:50:39,175 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:50:39,176 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:51:18,423 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:51:18,641 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:51:18,641 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:54:55,504 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:54:55,727 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:54:55,727 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:55:19,886 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 19:57:10,357 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:57:10,718 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:57:10,718 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:58:40,348 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:58:40,619 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:58:40,621 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 19:59:33,673 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 19:59:33,897 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 19:59:33,898 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 21:29:57,064 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 21:29:57,961 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 21:29:57,963 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 21:30:10,408 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 21:30:23,448 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:create_db, name:mydb
+2025-05-22 21:30:23,460 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Database 'mydb' created
+Transaction Status: No active transaction
+2025-05-22 21:30:28,033 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mydb'
+Transaction Status: No active transaction
+2025-05-22 21:30:29,632 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:30:31,224 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mera_db'
+Transaction Status: No active transaction
+2025-05-22 21:30:42,665 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:use_db, name:mydb
+2025-05-22 21:30:42,677 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'mydb'
+Transaction Status: No active transaction
+2025-05-22 21:30:48,141 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:30:48,886 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:30:48,988 - INFO - DATA_LOAD - collection:assignments - SUCCESS - loaded 2 documents
+2025-05-22 21:30:48,989 - INFO - COLLECTION_INIT - collection:assignments - COMPLETED - path:db\fiveriver\assignments.json, indexes:[], documents:2
+2025-05-22 21:30:48,992 - INFO - QUERY_EXECUTE - collection:assignments - FULL_SCAN - FULL_SCAN query returned 2 docs in 0.94ms (reason: No query provided)
+2025-05-22 21:30:49,005 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 2 documents in 2.26ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 21:30:49,893 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:30:49,974 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 8 documents
+2025-05-22 21:30:49,975 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:8
+2025-05-22 21:30:49,977 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 8 docs in 0.91ms (reason: No query provided)
+2025-05-22 21:30:49,994 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 8 documents in 2.40ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 21:31:37,272 - INFO - QUERY_PARSE - INDEX - SUCCESS - operation:enable_indexing, enable:True
+2025-05-22 21:31:37,273 - INFO - INDEX_TOGGLE - collection:users - SUCCESS - indexing_enabled:True
+2025-05-22 21:31:37,277 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Indexing enabled
+Transaction Status: No active transaction
+2025-05-22 21:32:20,675 - INFO - QUERY_PARSE - DOCUMENT - SUCCESS - operation:insert, collection:users
+2025-05-22 21:32:20,684 - INFO - DATA_SAVE - collection:users - SUCCESS - saved 9 documents
+2025-05-22 21:32:20,686 - INFO - DOCUMENT_INSERT - collection:users - SUCCESS - id:0589def7-9468-49ea-ae0f-e18b62541fd1
+2025-05-22 21:32:20,690 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 9 docs in 1.03ms (reason: No query provided)
+2025-05-22 21:32:20,708 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 0589def7-9468-49ea-ae0f-e18b62541fd1
+Transaction Status: No active transaction

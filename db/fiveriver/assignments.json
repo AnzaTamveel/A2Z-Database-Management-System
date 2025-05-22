@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "ASG7001",
+      "course_id": "CS101",
+      "module_id": "M1",
+      "title": "Python Exercises",
+      "due_date": "2023-03-15",
+      "max_score": 100,
+      "submissions": [
+        {
+          "student_id": "ST2001",
+          "submitted_on": "2023-03-14",
+          "score": 87,
+          "feedback": "Good work on functions"
+        }
+      ]
+    },
+    {
+      "_id": "ASG7002",
+      "course_id": "MATH202",
+      "module_id": "M1",
+      "title": "Logic Problems",
+      "due_date": "2023-03-20",
+      "max_score": 100,
+      "submissions": []
+    }
+  ]

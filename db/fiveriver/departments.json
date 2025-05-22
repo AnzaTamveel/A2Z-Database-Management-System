@@ -1,0 +1,16 @@
+[
+    {
+      "_id": "DEPT01",
+      "name": "Computer Science",
+      "head": "UR1001",
+      "faculty_count": 12,
+      "courses_offered": ["CS101", "CS201", "CS301"]
+    },
+    {
+      "_id": "DEPT02",
+      "name": "Physics",
+      "head": "UR1002",
+      "faculty_count": 8,
+      "courses_offered": ["PHY101", "PHY301"]
+    }
+  ]

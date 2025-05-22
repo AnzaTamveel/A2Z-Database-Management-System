@@ -1,0 +1,280 @@
+[
+  {
+    "name": "John Doe",
+    "age": 25,
+    "department": "IT",
+    "_id": "7346a89a-5bcd-4849-b9fd-a0607fce102f"
+  },
+  {
+    "name": "Sophia Garcia",
+    "age": 45,
+    "department": "Executive",
+    "position": "CEO",
+    "salary": 200000,
+    "direct_reports": [
+      "CFO",
+      "CTO"
+    ],
+    "_id": "ce18e5db-5636-4c2d-b00e-ecad7709b846"
+  },
+  {
+    "name": "James Martinez",
+    "age": 43,
+    "department": "Executive",
+    "position": "CFO",
+    "salary": 180000,
+    "direct_reports": [
+      "Finance"
+    ],
+    "_id": "0ffa4a7b-f810-4b7d-a2b2-adc45ea5d594"
+  },
+  {
+    "name": "Charlotte Lopez",
+    "age": 38,
+    "department": "Management",
+    "position": "HR Director",
+    "salary": 130000,
+    "team_size": 8,
+    "_id": "cb55d5dd-0ffe-4833-a86b-9fe55e6657dc"
+  },
+  {
+    "name": "Benjamin Gonzalez",
+    "age": 41,
+    "department": "Management",
+    "position": "Marketing Director",
+    "salary": 140000,
+    "budget": 500000,
+    "_id": "eb5f0665-5010-4f7b-8d36-1d4ecd8fb917"
+  },
+  {
+    "name": "Amelia Hernandez",
+    "age": 39,
+    "department": "Management",
+    "position": "IT Director",
+    "salary": 145000,
+    "team_size": 15,
+    "_id": "ee4c482e-7c3e-44bf-9a62-2217e5d78888"
+  },
+  {
+    "name": "Liam Chen",
+    "age": 32,
+    "department": "IT",
+    "position": "Senior Developer",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "salary": 110000,
+    "_id": "268d23c3-4dcf-40e7-9976-28683870c01a"
+  },
+  {
+    "name": "Emma Rodriguez",
+    "age": 29,
+    "department": "IT",
+    "position": "DevOps Engineer",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Azure"
+    ],
+    "salary": 105000,
+    "_id": "a8dedcd9-0b23-4806-9188-8a535ed5c0e3"
+  },
+  {
+    "name": "Noah Kim",
+    "age": 35,
+    "department": "IT",
+    "position": "Data Scientist",
+    "skills": [
+      "Python",
+      "R",
+      "Machine Learning"
+    ],
+    "salary": 120000,
+    "_id": "c79e77ef-0110-4b54-843a-cfc128e39dce"
+  },
+  {
+    "name": "Olivia Patel",
+    "age": 31,
+    "department": "IT",
+    "position": "Frontend Developer",
+    "skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "salary": 95000,
+    "_id": "22953e90-3ae2-4b1e-9512-21bb27062597"
+  },
+  {
+    "name": "William Nguyen",
+    "age": 40,
+    "department": "IT",
+    "position": "CTO",
+    "skills": [
+      "Leadership",
+      "Architecture",
+      "Cloud"
+    ],
+    "salary": 150000,
+    "_id": "1c21201c-06bd-4a30-8558-cb9daac6441f"
+  },
+  {
+    "name": "Sophia Garcia",
+    "age": 45,
+    "department": "Executive",
+    "position": "CEO",
+    "salary": 200000,
+    "direct_reports": [
+      "CFO",
+      "CTO"
+    ],
+    "_id": "004d145e-e63a-40be-be3e-120c4699be55"
+  },
+  {
+    "name": "James Martinez",
+    "age": 43,
+    "department": "Executive",
+    "position": "CFO",
+    "salary": 180000,
+    "direct_reports": [
+      "Finance"
+    ],
+    "_id": "84cbc374-173c-47cf-a8d5-85da9147f0a3"
+  },
+  {
+    "name": "Charlotte Lopez",
+    "age": 38,
+    "department": "Management",
+    "position": "HR Director",
+    "salary": 130000,
+    "team_size": 8,
+    "_id": "0dc6089d-127e-4747-85cd-ffbae3a45920"
+  },
+  {
+    "name": "Benjamin Gonzalez",
+    "age": 41,
+    "department": "Management",
+    "position": "Marketing Director",
+    "salary": 140000,
+    "budget": 500000,
+    "_id": "76a442ec-23f4-4afd-bd78-92528ce1dde1"
+  },
+  {
+    "name": "Amelia Hernandez",
+    "age": 39,
+    "department": "Management",
+    "position": "IT Director",
+    "salary": 145000,
+    "team_size": 15,
+    "_id": "2c9b1498-74c1-4cdb-9857-8a8573ddeeee"
+  },
+  {
+    "name": "Mason Lee",
+    "age": 22,
+    "department": "IT",
+    "position": "Junior Developer",
+    "salary": 60000,
+    "mentor": "Liam Chen",
+    "_id": "69fbfc84-d963-4e98-8095-8819309e0ef0"
+  },
+  {
+    "name": "Harper Wong",
+    "age": 23,
+    "department": "Marketing",
+    "position": "Marketing Intern",
+    "salary": 45000,
+    "duration": "6 months",
+    "_id": "ee5154ee-cf23-4086-84b9-8b5177514691"
+  },
+  {
+    "name": "Elijah Park",
+    "age": 24,
+    "department": "Finance",
+    "position": "Financial Analyst",
+    "salary": 65000,
+    "certifications": [
+      "CFA Level 1"
+    ],
+    "_id": "f0e66313-42b7-460a-84d5-83a77c0b0470"
+  },
+  {
+    "name": "Abigail Singh",
+    "age": 21,
+    "department": "HR",
+    "position": "HR Assistant",
+    "salary": 50000,
+    "university": "State College",
+    "_id": "10af04fc-1e85-4c94-8084-649a3349263e"
+  },
+  {
+    "name": "Lucas Kim",
+    "age": 22,
+    "department": "IT",
+    "position": "QA Intern",
+    "salary": 48000,
+    "skills": [
+      "Testing",
+      "Python"
+    ],
+    "_id": "3cd103bb-09b4-48e2-9199-beb4e3301342"
+  },
+  {
+    "name": "Elizabeth Cohen",
+    "age": 37,
+    "department": "Sales",
+    "position": "Sales Manager",
+    "salary": 95000,
+    "commission": 0.15,
+    "region": "West",
+    "_id": "e67492d6-12b1-4c50-95b9-74c60141405c"
+  },
+  {
+    "name": "Michael Friedman",
+    "age": 32,
+    "department": "Sales",
+    "position": "Account Executive",
+    "salary": 85000,
+    "commission": 0.1,
+    "clients": [
+      "Acme Inc",
+      "Globex"
+    ],
+    "_id": "06156796-ddc1-4f6a-8221-b705c32b13ca"
+  },
+  {
+    "name": "Evelyn Goldstein",
+    "age": 28,
+    "department": "Sales",
+    "position": "Sales Representative",
+    "salary": 70000,
+    "quota": 500000,
+    "_id": "fa2e03e9-975f-4aad-9d9e-9c9eefd432a0"
+  },
+  {
+    "name": "Daniel Schwartz",
+    "age": 41,
+    "department": "Sales",
+    "position": "VP of Sales",
+    "salary": 130000,
+    "team_size": 12,
+    "_id": "575d8bc0-07fc-4f6d-ba5d-dcc3a9117ef1"
+  },
+  {
+    "name": "Emily Rosenberg",
+    "age": 35,
+    "department": "Sales",
+    "position": "Enterprise Sales",
+    "salary": 110000,
+    "accounts": [
+      "Fortune 500"
+    ],
+    "_id": "65e0bf39-5180-4f51-8083-21c625393deb"
+  },
+  {
+    "name": "John",
+    "age": 30,
+    "_id": "8a9be9bf-af52-4811-9b5e-67c0823a6a4a"
+  }
+]

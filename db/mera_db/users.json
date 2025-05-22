@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John",
+    "age": 31,
+    "_id": "ad840b5a-5830-44c3-9f72-f6dcc53416f5"
+  },
+  {
+    "name": "Alice",
+    "age": 25,
+    "orders": [
+      {
+        "id": 1,
+        "amount": 99.99
+      }
+    ],
+    "_id": "bdb56cd1-bd0a-4f9d-8351-45fd2d511242"
+  },
+  {
+    "name": "John",
+    "age": 31,
+    "email": "john@example.com",
+    "active": true,
+    "_id": "cba21eec-1197-4e0f-8395-5b971ce1b2ed"
+  },
+  {
+    "name": "Alice",
+    "age": 25,
+    "_id": "c1272ebd-0fc1-4ef4-8b70-21ce3fa0cd05"
+  }
+]
