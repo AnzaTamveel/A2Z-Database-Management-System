@@ -335,3 +335,24 @@ Transaction Status: No active transaction
 2025-05-22 21:32:20,690 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 9 docs in 1.03ms (reason: No query provided)
 2025-05-22 21:32:20,708 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Document inserted with ID: 0589def7-9468-49ea-ae0f-e18b62541fd1
 Transaction Status: No active transaction
+2025-05-22 21:56:25,090 - INFO - AUTH - LOAD - SUCCESS - Loaded 3 users
+2025-05-22 21:56:25,430 - INFO - GUI_INIT - STATUS - SUCCESS - Initialized GUI
+2025-05-22 21:56:25,436 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Ready
+Transaction Status: No active transaction
+2025-05-22 21:58:05,703 - INFO - AUTH - AUTHENTICATE - SUCCESS - username:admin
+2025-05-22 21:58:12,187 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:58:29,180 - INFO - QUERY_PARSE - DATABASE - SUCCESS - operation:create_db, name:myraDB
+2025-05-22 21:58:29,193 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Database 'myraDB' created
+Transaction Status: No active transaction
+2025-05-22 21:59:07,618 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Using database 'fiveriver'
+Transaction Status: No active transaction
+2025-05-22 21:59:07,623 - INFO - DATA_LOAD - collection:users - SUCCESS - loaded 9 documents
+2025-05-22 21:59:07,623 - INFO - COLLECTION_INIT - collection:users - COMPLETED - path:db\fiveriver\users.json, indexes:[], documents:9
+2025-05-22 21:59:07,623 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 9 docs in 0.82ms (reason: No query provided)
+2025-05-22 21:59:07,643 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 9 documents in 1.75ms (full scan)
+Transaction Status: No active transaction
+2025-05-22 21:59:29,405 - INFO - QUERY_PARSE - QUERY - SUCCESS - operation:find, collection:users
+2025-05-22 21:59:29,405 - INFO - QUERY_EXECUTE - collection:users - FULL_SCAN - FULL_SCAN query returned 9 docs in 0.77ms (reason: No query provided)
+2025-05-22 21:59:29,423 - INFO - GUI_STATUS - UPDATE - SUCCESS - Status updated: Query Status: Found 9 documents in 1.45ms (full scan)
+Transaction Status: No active transaction

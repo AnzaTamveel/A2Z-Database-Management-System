@@ -1,3 +1,0 @@
-{"type": "insert", "collection": "orders", "document": {"user": "John", "items": ["laptop", "mouse"], "total": 1200, "_id": "4159c935-8a89-4e75-ac2a-c4a1e36bbfaa"}, "timestamp": 1747285895.6225467}
-{"type": "update", "collection": "users", "doc_id": "ad840b5a-5830-44c3-9f72-f6dcc53416f5", "original_doc": {"name": "John", "age": 31, "_id": "ad840b5a-5830-44c3-9f72-f6dcc53416f5"}, "timestamp": 1747285901.798874, "set": {"$inc": {"orders_count": 1}}}
-{"type": "update", "collection": "users", "doc_id": "cba21eec-1197-4e0f-8395-5b971ce1b2ed", "original_doc": {"name": "John", "age": 31, "email": "john@example.com", "active": true, "_id": "cba21eec-1197-4e0f-8395-5b971ce1b2ed"}, "timestamp": 1747285901.798874, "set": {"$inc": {"orders_count": 1}}}

@@ -1,1 +1,0 @@
-{"type": "insert", "collection": "orders", "document": {"user": "Alice", "items": ["keyboard"], "total": 50, "_id": "ba71e1ff-0d2d-496e-9fb1-c1a939cf7519"}, "timestamp": 1747285974.7575326}
