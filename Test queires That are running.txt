@@ -1,0 +1,138 @@
+-- Create a new database
+NAVA DATABASE BANAO mydb
+
+-- Switch to database
+DATABASE CHALAO mydb
+
+-- Create collections
+NAVA COLLECTION BANAO users
+NAVA COLLECTION BANAO orders
+
+-- Insert single document
+DAKHIL KARO users {"name": "John", "age": 30, "email": "john@example.com", "active": true}
+
+-- Insert multiple documents
+DAKHIL KARO users [{"name": "Alice", "age": 25}, {"name": "Bob", "age": 35}]
+
+-- Find documents (without index)
+LABBO users {"age": {"$gt": 25}}
+
+-- Update document
+BADLO users {"name": "John"} {"$set": {"age": 31}}
+
+-- Delete document
+MITAO users {"name": "Bob"}
+
+
+-- First find without index (note the time)
+LABBO users {"age": {"$gt": 25}}
+
+-- Create index on age field
+INDEX BANAO age users
+
+-- Enable indexing
+INDEX CHALO KARO
+
+-- Same find query with index (should be faster)
+LABBO users {"age": {"$gt": 25}}
+
+-- Disable indexing to compare
+INDEX BAND KARO
+
+
+
+-- Simple aggregation (average age)
+AGGREGATE IN users [{"$group": {"_id": null, "avgAge": {"$avg": "$age"}}}]
+
+-- Complex aggregation (group by active status)
+AGGREGATE IN users [
+    {"$match": {"age": {"$gt": 20}}},
+    {"$group": {"_id": "$active", "count": {"$sum": 1}, "avgAge": {"$avg": "$age"}}}
+]
+
+
+
+
+-- Simple transaction
+BEGIN TX
+DAKHIL KARO orders {"user": "John", "items": ["laptop", "mouse"], "total": 1200}
+BADLO users {"name": "John"} {"$inc": {"orders_count": 1}}
+COMMIT
+
+-- Transaction with rollback
+BEGIN TX
+DAKHIL KARO orders {"user": "Alice", "items": ["keyboard"], "total": 50}
+-- Something went wrong, rollback
+ROLLBACK
+
+
+
+-- Create backup
+BACKUP BANAO mydb_backup_2023
+
+-- Restore from backup
+RESTORE KARO mydb_backup_2023
+
+
+-- Nested document query
+DAKHIL KARO users {
+    "name": "Emma",
+    "address": {
+        "street": "123 Main St",
+        "city": "New York"
+    },
+    "tags": ["customer", "vip"]
+}
+
+-- Query on nested field
+LABBO users {"address.city": "New York"}
+
+-- Array query
+LABBO users {"tags": "vip"}
+
+-- Complex conditional query
+LABBO users {
+    "$or": [
+        {"age": {"$lt": 30}},
+        {"$and": [
+            {"active": true},
+            {"name": {"$ne": "John"}}
+        ]}
+    ]
+}
+
+
+
+
+-- Performance test script (run in sequence)
+-- 1. Initial setup
+NAVA DATABASE BANAO perf_test
+DATABASE CHALAO perf_test
+NAVA COLLECTION BANAO test_data
+
+-- 2. Insert test data (1000 documents)
+DAKHIL KARO test_data [
+    {"value": 1, "category": "A", "timestamp": 1234567890},
+    {"value": 2, "category": "B", "timestamp": 1234567891},
+    ... (repeat with variations)
+]
+
+-- 3. Test without index
+LABBO test_data {"category": "A", "value": {"$gt": 5}}
+
+-- 4. Create index and test again
+INDEX BANAO category test_data
+INDEX BANAO value test_data
+INDEX CHALO KARO
+LABBO test_data {"category": "A", "value": {"$gt": 5}}
+
+-- 5. Compare aggregation performance
+AGGREGATE IN test_data [
+    {"$match": {"timestamp": {"$gt": 1234567000}}},
+    {"$group": {"_id": "$category", "avgValue": {"$avg": "$value"}}}
+]
+
+
+
+
+
